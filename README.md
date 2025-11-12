@@ -9,30 +9,6 @@ This repository contains two complementary projects designed to deepen your unde
 
 These projects follow professional front-end development practices and are part of a larger journey to mastering **modern web development**.
 
----
-
-## 📁 Repository Structure
-
-web-development-fundamentals/
-│
-├── advanced_html/
-│ ├── README.md
-│ ├── index.html
-│ ├── about.html
-│ ├── services.html
-│ └── contact.html
-│
-├── advanced_css/
-│ ├── README.md
-│ ├── styles.css
-│ ├── animations.css
-│ └── variables.css
-│
-└── assets/
-├── images/
-└── icons/
-
-
 Each project is **self-contained** with its own `README.md` describing its goals, learning objectives, and structure.
 
 ## 🎯 Learning Objectives
